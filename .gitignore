@@ -1,0 +1,12 @@
+# Virtual Environment
+.myvenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local database (do not track production/local data)
+db.sqlite3
+
+# Media uploads (user-uploaded files)
+media/
